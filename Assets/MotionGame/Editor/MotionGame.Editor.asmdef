@@ -1,0 +1,17 @@
+{
+    "name": "MotionGame.Editor",
+    "references": [
+        "MotionGame",
+        "MotionGame.ThirdParty"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
